@@ -53,9 +53,7 @@ public String setDescription() {
 
 public boolean isSpecialReg() {
 
-        //Some code that returns true if the registry has special data like weight, and false if it doesn't.
-
-}
+		}
 
 //This is of the highest priority to get properly started, as it is crucial to a Pokemon mod. We have to get the GUI up soon as well; it's the GUI that calls on the unused methods getName, getID, and getDescription.
 
