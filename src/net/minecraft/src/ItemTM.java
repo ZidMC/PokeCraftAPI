@@ -51,7 +51,7 @@ public void whoCanUse() {
         //Code that calculates if the maxuses are 0 and when reached 0, it will destroy the TM
         if(getMaxUses() == 0)
           {
-                boolean emptyTm = true;
+                boolean b = true;
                 // after this i thought of something like this.desroy but i dont know if what works with java
           }
 }
