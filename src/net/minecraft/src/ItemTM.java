@@ -48,7 +48,7 @@ public void whoCanUse() {
         public int getMaxUses() {
         //Code for getting the amount of times a TM may be used before it breaks
         
-        //Code that calculates if the maxuses are 0 and when reached 0, it will destroy the TM
+        //Code that calculates if the max uses are 0 and when reached 0, it will destroy the TM
         if(getMaxUses() == 0)
           {
                 boolean b = true;
